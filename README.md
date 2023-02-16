@@ -2,9 +2,6 @@
 
 Note-Taker
 
-# YourWeather
-Weather Dashboard
-
 ## Description
 
 I created this site to help you planning your events
@@ -16,6 +13,10 @@ I created this site to help you planning your events
 * HTML
 
 * JavaScript
+
+## My Contact: 
+
+volvachya@gmail.com
 
 ## Site
 
