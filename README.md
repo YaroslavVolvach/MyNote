@@ -1,6 +1,6 @@
 # MyNote
 
-##Note-Taker
+Note-Taker
 
 # YourWeather
 Weather Dashboard
